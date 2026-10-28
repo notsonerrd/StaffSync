@@ -14,6 +14,20 @@ The application provides role-based access for administrators, HR personnel, and
 - **Announcements:** Includes a dedicated page for displaying organizational announcements.
 - **Role-Based Access:** Provides administrative controls in the user interface for accounts assigned the `admin` or `hr` role.
 
+### Demo Login Credentials
+
+Use these accounts to test the application with different roles.
+
+| Role | Email | Password |
+|---|---|---|
+| Admin | sana@staffsync.io | admin123 |
+| Employee | rahul@staffsync.io | emp12345 |
+
+**How to access:**
+1. Open the [StaffSync Live Application]
+2. Enter the credentials for the role you want to test.
+3. Click **Login** to access the dashboard.
+
 ## Technology Stack
 
 | Layer | Technology |
